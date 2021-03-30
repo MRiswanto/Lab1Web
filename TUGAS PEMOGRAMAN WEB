@@ -1,0 +1,40 @@
+membuat tutorial
+pertama membuat folder untuk menyompan file/project
+persiapkan text editor visual studio code. Dan setelah di buat
+Maukan kodingan seperti di bawah ini :
+<nav>
+ 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tag HTML Dasar</title>
+    </head>
+</body>
+
+</body>
+</html>
+
+Kedua, buat paragfraf seperti berikut :
+<!-- ini adalah paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+<p align="justify"> Kami sedang belajar HTML dasar, pada matakuliah <b> pemograman web </b></p> di Prodi <i>Teknik Informatika</i></p> <u>Universitas Pelita Bangsa<u>. Pelajaran yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal tag - tag dasar HTML.<p>
+<!-- ini adalah paragraf kedua -->
+<h2>Paragrafpada HTML</h2>
+<p align="left"> Ini merupakan sebuah paragraf yang terdiri dari beberapa kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf di buat dengan menggunakan tag dasar html.</p>
+<!-- sub judul paragfar -->
+
+Jika telah membuat paragraf selanjutnya simpan, scroll perubahannya dan kemudian refresh pada web nya
+
+Kalau sudah kemudian tinggal tambahkan kodingan gambar seperti di bawah ini :
+
+<h3>Menambahkan Orang</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="Logo Universitas Pelita Bangsa.png" width="200" title="Logo Universitas Pelita Bangsa">
+
+setelah menambahkan codingan gambar, terakhir tambahkan codingan link untuk membuka googlenya, berikut kodingannya :
+<!-- menambahkan link navigasi -->
+   <a href="lab1_tag_dasar.html">Dasar HTML</a>
+    <a href="lab1_halaman2.html">Halaman 2</a>
+    <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+    </nav>
+    <hr>
